@@ -6,7 +6,7 @@ namespace LuckySpin.Models
         Random random = new Random();
         private int a, b, c; //instance variables
 
-        //public Player Player { get; set; }
+        public Player Player { get; set; }
 
         public int A
         {
